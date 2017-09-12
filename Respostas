@@ -1,1 +1,37 @@
 Respostas[]
+
+1-Imóvel
+
+BENS – o produto de venda
+ANUNCIO – local onde é registrado o bem
+TERRITORIO – local onde estão os imóveis
+CLIENTE – comprador dos bens
+LANCE – valor dado pelo cliente
+FORMULARIO – confirmação da compra do cliente
+
+2-Treinamento SA
+
+EMPRESA – Local de treinamento de curso
+CURSO – produto das turmas e professor
+TURMAS – produto do instrutor
+HORARIO – contagem de fim e inicio do curso
+PREÇO – valor do curso
+INSTRUTOR – comandante das turmas
+ALUNO – algo do instrutor
+
+3-Cadastro de pessoa
+
+FABRICA- Vende produtos pra pessoas físicas e jurídicas
+PRODUTOS- Itens da fábrica
+PF- Cliente da fábrica
+PJ- Cliente da fábrica
+FORMULARIO- Cadastramento de pessoas físicas e jurídicas
+
+4-Aluguel de filmes
+
+Cliente- Quem aluga os filmes
+Filme- Produto alugado para clientes
+Categoria preço- Valores dos filmes
+Copia Filme- Copia dos filmes
+Locação- Aluga filmes
+Gênero- Variações de filmes
